@@ -1,7 +1,7 @@
 <html>
 <head>
 <meta charset="utf-8">
-<title>设计模式</title>
+<title></title>
 </head>
 <body>
 <div id="wmd-preview" class="wmd-preview"><div class="md-section-divider"></div><div class="md-section-divider"></div><h1 data-anchor-id="cxtu" id="设计模式">设计模式</h1><p data-anchor-id="0fsx">单例 工厂 迭代器 装饰者 观察者</p><hr><div class="md-section-divider"></div><h2 data-anchor-id="shn2" id="单例">单例</h2><ul data-anchor-id="vmem">
@@ -35,6 +35,10 @@
 这个说不清啊</li>
 <li>使用 <br>
 <ol><li>当许多对象 需要从 一个内部信息动态变换的对象获取信息时，前者为观察者，后者为被观察者，当被观察者发生改变的时候，观察者就会观察到这样的变化，并且做出相应的响应。并且观察者具有“注册-通知-撤销注册”的功能 </li></ol></li>
-</ul></div>
+</ul><div class="md-section-divider"></div><h2 data-anchor-id="da7f" id="附加博客ｒｂａｃ数据库">附加（博客ｒｂａｃ数据库）</h2><ul data-anchor-id="dnpj">
+<li>基础 <br>
+1.　角色：拥有一定权限的用户类型，如：博主（文件的增删改查权），浏览者（文件的浏览权） <br>
+2.　</li>
+</ul><div class="md-section-divider"></div><h2 data-anchor-id="kguv" id="附加-1">附加</h2><p data-anchor-id="smeh">简单的基于ｒｂａｃ权限思想设计的数据库</p></div>
 </body>
 </html>
