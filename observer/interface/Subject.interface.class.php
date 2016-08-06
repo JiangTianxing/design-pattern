@@ -4,5 +4,4 @@
 		public function removeObserver($observer);
 		public function notifyObservers();
 	}
-
 ?>

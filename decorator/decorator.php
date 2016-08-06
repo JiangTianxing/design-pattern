@@ -25,7 +25,7 @@
     class Espresso extends CondimentDecrator {
         public $beverage;
 
-        public function __construct($beverage) {
+        public function __construct(Bread $beverage) {
             $this->beverage = $beverage;
         }
 
